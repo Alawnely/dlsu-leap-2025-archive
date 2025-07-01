@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4413],{4413:(e,h,r)=>{r.r(h),r.d(h,{default:()=>l});var s=r(8322),a=r(5155);let l=(0,s.A)((0,a.jsx)("path",{d:"M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10m-10 1H8v-2h4V8l4 4-4 4z"}),"ArrowCircleRightSharp")}}]);

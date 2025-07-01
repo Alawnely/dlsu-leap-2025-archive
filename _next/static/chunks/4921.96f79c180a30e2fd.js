@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4921],{4921:(e,a,h)=>{h.r(a),h.d(a,{default:()=>t});var s=h(8322),l=h(5155);let t=(0,s.A)((0,l.jsx)("path",{d:"M3 17h18v2H3zm0-7h18v5H3zm0-4h18v2H3z"}),"CalendarViewDay")}}]);

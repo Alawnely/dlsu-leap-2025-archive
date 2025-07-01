@@ -1,0 +1,8 @@
+/_not-found
+/login
+/timeout-error?message=Connection%20timeout%20-%20Please%20check%20your%20internet%20connection
+/coral-lagoon
+/fairy-nook
+/hollow-tree-hideaway
+/northern-star-stop
+/pirates-cove

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8286],{8286:(e,t,l)=>{l.r(t),l.d(t,{default:()=>a});var s=l(8322),u=l(5155);let a=(0,s.A)((0,u.jsx)("path",{d:"M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"}),"ChevronLeftOutlined")}}]);

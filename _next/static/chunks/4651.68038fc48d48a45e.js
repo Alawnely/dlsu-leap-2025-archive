@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4651],{4651:(e,s,t)=>{t.r(s),t.d(s,{default:()=>r});var a=t(8322),h=t(5155);let r=(0,a.A)((0,h.jsx)("path",{d:"m10 17 5-5-5-5z"}),"ArrowRight")}}]);
